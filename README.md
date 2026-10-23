@@ -1,3 +1,5 @@
+# Deadline: November 7th, 09:00 AM Nsk
+
 # Аве Мария 2
 
 Инструкция находится в файле `ave_maria.ipynb`
